@@ -129,6 +129,9 @@ See [Microsoft Online Subscription Agreement](https://azure.microsoft.com/suppor
 An indexing term that enables you to categorize resources according to your requirements for managing or billing. When you have a complex collection of resources, you can use tags to visualize those assets in the way that makes the most sense. For example, you could tag resources that serve a similar role in your organization or belong to the same department.  
 See [Using tags to organize your Azure resources](resource-group-using-tags.md)
 
+## tenant
+A subscriber, typically an organization that uses the cloud services offered by a cloud service provider. Tenants can consume services in either a dedicated environment (single tenant) or a shared environment with other organizations (multitenant).
+
 ## update domain
 The collection of virtual machines in an availability set that are updated at the same time. Virtual machines in the same update domain are restarted together during planned maintenance. Azure never restarts more than one update domain at a time. Also referred to as an upgrade domain.  
 See [Manage the availability of Windows virtual machines](virtual-machines/windows/manage-availability.md?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json) and [Manage the availability of Linux virtual machines](virtual-machines/linux/manage-availability.md?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json)
